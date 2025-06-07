@@ -66,14 +66,14 @@ Dont forget to fork & star repo
   
 --- 
   > **⚠️ LINK (01)**
-  <a href='https://sarkar-md-session-generator.koyeb.app/' target="_blank">
+  <a href='https://ABBAS-md-session-generator.koyeb.app/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_1-00FFFF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
   
   <div style="height: 10px;"></div>
   
   > **⚠️ LINK (02)**
-  <a href='https://sarkarmd-session-generator.onrender.com/' target="_blank">
+  <a href='https://ABBASmd-session-generator.onrender.com/' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00FF?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
@@ -152,8 +152,8 @@ Dont forget to fork & star repo
 
 ## 🗃️ PROJECT ARCHITECTS
 <div align="center">
-  <a href="https://github.com/Sarkar-Bandaheali">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sarkar-Bandaheali&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
+  <a href="https://github.com/ABBAS-Bandaheali">
+    <img src="https://github-readme-stats.vercel.app/api?username=ABBAS-Bandaheali&show_icons=true&theme=dark&border_color=00ffff&title_color=00ffff&icon_color=00ffff" width="400"/>
   </a>
 </div>
 
