@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗦𝗔𝗥𝗞𝗔𝗥-𝗠𝗗</h1>
+  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝗔𝗕𝗕𝗔𝗦-𝗠𝗗</h1>
 </p>
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 <div align="center">
   <a href="https://github.com/Sarkar-Bandaheali/followers"><img title="Followers" src="https://img.shields.io/github/followers/Sarkar-Bandaheali?color=EB5406&style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/Sarkar-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Sarkar-Bandaheali/ABBAS-MD?color=FFCE44&style=for-the-badge&logo=reverbnation&logoColor=white"></a>
+  <a href="https://github.com/ABBAS-Bandaheali/Sarkar-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Sarkar-Bandaheali/Sarkar-MD?color=FF007F&style=for-the-badge&logo=git&logoColor=white"></a>
   <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/Sarkar-Bandaheali/Sarkar-MD?style=for-the-badge&color=FFFF33&logo=docusign&logoColor=white"></a>
-  <a href="https://github.com/Sarkar-Bandaheali/Sarkar-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
+  <a href="https://github.com/Sarkar-Bandaheali/ABBAS-MD/graphs/commit-activity"><img height="28" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge&logo=gitpod&logoColor=white"></a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sarkar-MD&label=VISITORS&style=flat-square&color=0002FF" />
+  <img src="https://komarev.com/ghpvc/?username=ABBAS-MD&label=VISITORS&style=flat-square&color=0002FF" />
 </p>
 
 > **Current Bot Version `3.0.0`**  
@@ -51,7 +51,7 @@ Dont forget to fork & star repo
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
   <p style="color: #00ffff;">First star & Fork repo using button Below !</p>
-  <a href='https://github.com/Sarkar-Bandaheali/Sarkar-MD/fork' target="_blank">
+  <a href='https://github.com/Sarkar-Bandaheali/Abbas-MD/fork' target="_blank">
     <img src='https://img.shields.io/badge/FORK_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
   </a>
 </div>
@@ -130,7 +130,7 @@ Dont forget to fork & star repo
 ## 🪀  SUPPORT CHANNEL
 
 <div align="center">
-  <a href="https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P">
+  <a href="https://whatsapp.com/channel/0029VbB6VYC9Gv7VCYaow029">
     <img src="https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000000"/>
   </a>
 </div>
@@ -161,7 +161,7 @@ Dont forget to fork & star repo
   <img src="https://github.com/Bandaheali/Sarkar-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
-## 👑 SARKAR STATUS
+## 👑 𝗔𝗕𝗕𝗔𝗦 STATUS
 
 ```diff
 + Project Status: Active
